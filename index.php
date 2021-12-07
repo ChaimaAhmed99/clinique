@@ -12,7 +12,7 @@ if (!isset($_SESSION["login"]) || $role == 2) {
     $username = $_SESSION["username"];
   } ?>
   <!DOCTYPE html>
-  <html lang="en">
+  <html lang="en">test
 
   <head>
     <meta charset="utf-8">
